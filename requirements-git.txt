@@ -1,0 +1,4 @@
+git+https://github.com/kingthur/COFFEE#egg=COFFEE
+git+https://github.com/kingthur/ufl.git#egg=ufl
+git+https://github.com/kingthur/fiat.git#egg=fiat
+git+https://github.com/kingthur/FInAT.git#egg=finat
